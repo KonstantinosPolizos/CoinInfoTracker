@@ -1,4 +1,4 @@
-# CoinscopeAssignment
+# CoininfoTracker
 cd server
 npm run dev
 
